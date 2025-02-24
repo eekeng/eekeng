@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/joshmadakor1">Software Devoper</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/eekeng/Active-Directory-Home-Lab)
   - [Cloud Based Honeypot](https://github.com/eekeng/Cloud-Based-Honeypot) 
