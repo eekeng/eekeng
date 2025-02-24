@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/joshmadakor1">Software Devoper</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<!--
-**eekeng/eekeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Active Directory Home Lab](https://github.com/eekeng/Active-Directory-Home-Lab)
+  - [Cloud Based Honeypot](https://github.com/eekeng/Cloud-Based-Honeypot) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>👨‍💻 Software Development Projects:s</h2>
+
+- [Spotify Album Searcher](https://github.com/eekeng/spotify-album-searcher)
+- [Decibel Meter](https://github.com/eekeng/Decibel-Meter-)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
+
