@@ -1,4 +1,6 @@
-<h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/joshmadakor1">Software Devoper</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Emmanuel 
+  
+Software Devoper</a> and Cyber Security Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -14,9 +16,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/emmanuel-e-a26bb7245/
 
