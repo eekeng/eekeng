@@ -8,7 +8,7 @@ Software Devoper</a> and Cyber Security Professional</a>
   - [Cloud Based Honeypot](https://github.com/eekeng/Cloud-Based-Honeypot) 
 
 
-<h2>👨‍💻 Software Development Projects:s</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
 - [Spotify Album Searcher](https://github.com/eekeng/spotify-album-searcher)
 - [Decibel Meter](https://github.com/eekeng/Decibel-Meter-)
