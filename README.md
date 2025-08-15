@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emmanuel 
   
-Software Devoper</a> and Cyber Security Professional</a>
+IT Support</a> and Cyber Security Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
