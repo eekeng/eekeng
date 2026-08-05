@@ -4,6 +4,7 @@ IT Support</a> and Cyber Security Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+  - [Multi-Site Enterprise Network](https://github.com/eekeng/Multi-Site-Enterprise-Network)
   - [Active Directory Home Lab](https://github.com/eekeng/Active-Directory-Home-Lab)
   - [Microsoft Azure Honeypot](https://github.com/eekeng/Cloud-Based-Honeypot)
   - [Proxmox Home Lab](https://github.com/eekeng/Virtualized-IT-Infrastructure-Security-Homelab)
