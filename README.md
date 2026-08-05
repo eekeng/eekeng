@@ -6,8 +6,8 @@ IT Support</a> and Cyber Security Professional</a>
 
   - [Active Directory Home Lab](https://github.com/eekeng/Active-Directory-Home-Lab)
   - [Microsoft Azure Honeypot](https://github.com/eekeng/Cloud-Based-Honeypot)
+  - [Proxmox Home Lab](https://github.com/eekeng/Virtualized-IT-Infrastructure-Security-Homelab)
   - [Endless SSH Honeypot](https://github.com/eekeng/Endlessh-Honeypot)
-
 
 <h2>👨‍💻 Software Development Projects</h2>
 
